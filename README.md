@@ -18,3 +18,5 @@
       c. git push origin master
     5). 如果远程有修改, 拉取到本地
       a. git pull origin master
+    6). 新来一个同事
+      a. git clone url
