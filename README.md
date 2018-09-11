@@ -17,3 +17,4 @@
       b. git commit -m "update README.md"
       c. git push origin master
     5). 如果远程有修改, 拉取到本地
+      a. git pull origin master
